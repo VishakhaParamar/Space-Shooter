@@ -2,6 +2,8 @@
 
 Welcome to the Space Shooter repository! This project is a simple yet engaging game where players navigate a spaceship and shoot obstacles that appear from the wrong side of the screen.
 
+![SpaceShooter UI](SpaceShooterUi.png)
+
 ## Game Overview
 
 In this game, you control a spaceship that must hit incoming obstacles to earn points. You start with three lives, and the game ends when all lives are lost. The objective is to score as many points as possible before the game ends.
