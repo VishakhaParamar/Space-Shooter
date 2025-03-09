@@ -28,7 +28,7 @@ To run the Space Shooter game locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone <https://github.com/VishakhaMP/Space-Shooter.git>
+   git clone <https://github.com/VishakhaParmar/Space-Shooter.git>
    ```
 
 2. **Open the `index.html` file** in your web browser to start playing the game.
